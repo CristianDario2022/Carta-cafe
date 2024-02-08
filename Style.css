@@ -1,0 +1,113 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'open sans';
+    font-size: 16px;
+    background-color: antiquewhite;
+}
+
+h1{
+    text-align: center;
+    color: rgb(221, 222, 135);
+    font-size: 4rem;
+    font-family: Candlescript Demo Version;
+}
+
+.img-1{
+    text-align: center;
+    justify-content: space-between;
+}
+
+img {
+    width: 30rem;
+    height: 30rem;
+}
+
+.img-1 p{
+    text-align: center;
+    font-size: 2.5rem;
+    font-family: Candlescript Demo Version;
+}
+
+
+
+
+
+@media screen and (max-width:900px) {
+    .img-1 {
+        text-align: center;
+    }
+
+    h1{
+        text-align: center;
+        color: rgb(221, 222, 135);
+        font-size: 3rem;
+        font-family: Candlescript Demo Version; 
+    }
+
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    body {
+        font-family: 'open sans';
+        font-size: 16px;
+        background-color: antiquewhite;
+    }
+}
+
+@media screen and (max-width:610px) {
+    .img-1 {
+        text-align: center;
+    }
+
+    h1{
+        text-align: center;
+        color: rgb(221, 222, 135);
+        font-size: 3rem;
+        font-family: Candlescript Demo Version; 
+    }
+
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    body {
+        font-family: 'open sans';
+        font-size: 16px;
+        background-color: antiquewhite;
+    }
+}
+
+@media screen and (max-width:380px) {
+    .img-1 {
+        text-align: center;
+    }
+
+    h1{
+        text-align: center;
+        color: rgb(221, 222, 135);
+        font-size: 3rem;
+        font-family: Candlescript Demo Version; 
+    }
+
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    body {
+        font-family: 'open sans';
+        font-size: 16px;
+        background-color: antiquewhite;
+    }
+}
