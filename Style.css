@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Honk&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
 
 
 * {
@@ -8,7 +8,7 @@
 }
 
 body {
-    font-family: 'Honk', system-ui;
+    font-family: 'Great Vibes', cursive;
     font-size: 16px;
     background-color: antiquewhite;
 }
@@ -17,7 +17,7 @@ h1{
     text-align: center;
     color: rgb(221, 222, 135);
     font-size: 4rem;
-   font-family: 'Honk', system-ui;
+   font-family: 'Great Vibes', cursive;
 }
 
 .img-1{
@@ -33,7 +33,7 @@ img {
 .img-1 p{
     text-align: center;
     font-size: 2.5rem;
-    font-family: 'Honk', system-ui;
+    font-family: 'Great Vibes', cursive;
 }
 
 
@@ -49,7 +49,7 @@ img {
         text-align: center;
         color: rgb(221, 222, 135);
         font-size: 3rem;
-      font-family: 'Honk', system-ui;
+      font-family: 'Great Vibes', cursive;
     }
 
     * {
@@ -59,7 +59,7 @@ img {
     }
     
     body {
-        font-family: 'Honk', system-ui;
+        font-family: 'Great Vibes', cursive;
         font-size: 16px;
         background-color: antiquewhite;
     }
@@ -74,7 +74,7 @@ img {
         text-align: center;
         color: rgb(221, 222, 135);
         font-size: 3rem;
-       font-family: 'Honk', system-ui;
+       font-family: 'Great Vibes', cursive;
     }
 
     * {
@@ -84,7 +84,7 @@ img {
     }
     
     body {
-        font-family: 'Honk', system-ui;
+        font-family: 'Great Vibes', cursive;
         font-size: 16px;
         background-color: antiquewhite;
     }
@@ -99,7 +99,7 @@ img {
         text-align: center;
         color: rgb(221, 222, 135);
         font-size: 3rem;
-        font-family: 'Honk', system-ui;
+        font-family: 'Great Vibes', cursive;
     }
 
     * {
@@ -109,7 +109,7 @@ img {
     }
     
     body {
-        font-family: 'Honk', system-ui;
+        font-family: 'Great Vibes', cursive;
         font-size: 16px;
         background-color: antiquewhite;
     }
