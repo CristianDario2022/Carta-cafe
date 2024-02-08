@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Honk&display=swap');
+
+
 * {
     margin: 0;
     padding: 0;
@@ -5,7 +8,7 @@
 }
 
 body {
-    font-family: 'Candlescript Demo Version';
+    font-family: 'Honk', system-ui;
     font-size: 16px;
     background-color: antiquewhite;
 }
@@ -14,7 +17,7 @@ h1{
     text-align: center;
     color: rgb(221, 222, 135);
     font-size: 4rem;
-    font-family: 'Candlescript Demo Version';
+   font-family: 'Honk', system-ui;
 }
 
 .img-1{
@@ -30,7 +33,7 @@ img {
 .img-1 p{
     text-align: center;
     font-size: 2.5rem;
-    font-family:  'Candlescript Demo Version';
+    font-family: 'Honk', system-ui;
 }
 
 
@@ -46,7 +49,7 @@ img {
         text-align: center;
         color: rgb(221, 222, 135);
         font-size: 3rem;
-        font-family:  'Candlescript Demo Version';
+      font-family: 'Honk', system-ui;
     }
 
     * {
@@ -56,7 +59,7 @@ img {
     }
     
     body {
-        font-family: Candlescript Demo Version;
+        font-family: 'Honk', system-ui;
         font-size: 16px;
         background-color: antiquewhite;
     }
@@ -71,7 +74,7 @@ img {
         text-align: center;
         color: rgb(221, 222, 135);
         font-size: 3rem;
-        font-family:  'Candlescript Demo Version'; 
+       font-family: 'Honk', system-ui;
     }
 
     * {
@@ -81,7 +84,7 @@ img {
     }
     
     body {
-        font-family: Candlescript Demo Version;
+        font-family: 'Honk', system-ui;
         font-size: 16px;
         background-color: antiquewhite;
     }
@@ -96,7 +99,7 @@ img {
         text-align: center;
         color: rgb(221, 222, 135);
         font-size: 3rem;
-        font-family:  'Candlescript Demo Version';
+        font-family: 'Honk', system-ui;
     }
 
     * {
@@ -106,7 +109,7 @@ img {
     }
     
     body {
-        font-family:  'Candlescript Demo Version';
+        font-family: 'Honk', system-ui;
         font-size: 16px;
         background-color: antiquewhite;
     }
